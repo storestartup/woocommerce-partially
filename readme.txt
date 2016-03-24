@@ -1,4 +1,4 @@
-=== WooCommerce Partial.ly ===
+=== Woo Partial.ly ===
 Tags: woocommerce,partially,partial.ly,payment plans,installments
 Requires at least: 3
 Tested up to: 4.4.2

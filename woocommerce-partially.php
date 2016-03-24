@@ -1,7 +1,7 @@
 <?php 
 defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 /*
-Plugin Name: WooCommerce Partial.ly
+Plugin Name: Woo Partial.ly
 License: GPLv2 or later
 Plugin URI: https://partial.ly
 Version: 1.0.0
